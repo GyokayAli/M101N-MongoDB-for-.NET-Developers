@@ -1,0 +1,24 @@
+﻿<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @if (Model != null)
+    {
+        <div>
+            Name: @Model.Name
+        </div>
+        <div>
+            Profession: @Model.Profession
+        </div>
+        <div>
+            Age: @Model.Age
+        </div>
+    }
+    else
+    {
+        <div>No People!!!</div>
+    }
+</body>
+</html>
