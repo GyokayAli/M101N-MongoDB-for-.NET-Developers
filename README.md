@@ -54,7 +54,7 @@ MongoDB version: 3.2.10
               <td>3 hrs</td>
             </tr>
             <tr>
-              <td><a href="/courses/MongoDB/M101N/2017_January/courseware/Week_3_Schema_Design/52d99f78e2d423744501cf75">
+              <td><a href="https://github.com/GyokayAli/M101N-MongoDB-for-.NET-Developers/tree/master/Week3">
                 Week 3: Schema Design
               </a></td>
               <td class="topics">Patterns, Case Studies &amp; Tradeoffs</td>
