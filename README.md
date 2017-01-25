@@ -132,9 +132,6 @@ MongoDB version: 3.2.10
               </td>
               <td>1.75 hrs</td>
               <td>0 hrs</td>
-              <td>
-		No handouts
-              </td>
             </tr>
             <tr>
                 <td>Final Exam</td>
