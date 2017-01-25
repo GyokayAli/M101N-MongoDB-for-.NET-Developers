@@ -18,7 +18,7 @@ MongoDB version: 3.2.10
           </thead>
           <tbody>
             <tr>
-              <td><a href="/courses/MongoDB/M101N/2017_January/courseware/Week_1_Introduction/54cbe342d8ca39277a4375b3">
+              <td><a href="https://github.com/GyokayAli/M101N-MongoDB-for-.NET-Developers/tree/master/Week1">
                 Week 1: Introduction
               </a></td>
               <td class="topics">Overview, Design Goals, the Mongo Shell, JSON Intro,  Installing Tools, Overview of Blog Project, and ensuring that your system is set up correctly with Visual Studio.</td>
@@ -36,7 +36,7 @@ MongoDB version: 3.2.10
               <td>3 hrs</td>
             </tr>
             <tr>
-              <td><a href="/courses/MongoDB/M101N/2017_January/courseware/Week_2_CRUD/54cbeea2d8ca3927794375b7">
+              <td><a href="https://github.com/GyokayAli/M101N-MongoDB-for-.NET-Developers/tree/master/Week2">
                 Week 2: CRUD
               </a></td>
               <td class="topics">Mongo Shell, Query Operators, Update Operators and a  Few Commands</td>
