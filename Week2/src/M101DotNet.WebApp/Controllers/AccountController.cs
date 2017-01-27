@@ -34,9 +34,9 @@
             }
 
             var blogContext = new BlogContext();
-            var col = blogContext.Users;
 
             //TASK: fetch a user by the email in model.Email
+            var col = blogContext.Users;
             var builder = Builders<User>.Filter;
             var filter = builder.Eq(x => x.Email, model.Email);
             var user = await col.Find(filter).SingleAsync();
