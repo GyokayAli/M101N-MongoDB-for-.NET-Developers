@@ -67,7 +67,9 @@ MongoDB version: 3.2.10
                     <td>3 hrs</td>
                 </tr>
                 <tr>
-                    <td>Week 4: Performance</td>
+                    <td><a href="https://github.com/GyokayAli/M101N-MongoDB-for-.NET-Developers/tree/master/Week4">
+                    Week 4: Performance
+                    </a></td>
                     <td class="topics">Using Indexes, Monitoring And Understanding Performance. Performance In Sharded Environments</td>
                     <td class="day">
                         Jan 31, 2017
